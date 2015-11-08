@@ -1,0 +1,2 @@
+# Ditch
+Just another repository
